@@ -3,7 +3,9 @@ extra-package-dbs: []
 packages:
 - '.'
 extra-deps:
-- snap-1.0.0.2
-- heist-1.0.1.2
-- map-syntax-0.2.0.2
-resolver: lts-7.24
+- snap-1.1.1.0
+- heist-1.1
+- map-syntax-0.3
+- xmlhtml-0.2.5.2
+- pwstore-fast-2.4.4
+resolver: lts-12.5
